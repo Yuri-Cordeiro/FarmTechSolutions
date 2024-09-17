@@ -1,7 +1,7 @@
 # # Instalar e carregar pacotes necessários
 # install.packages("httr")
 # install.packages("jsonlite")
-acao_dados_metereologicos()<- function() {
+acao_dados_metereologicos <- function() {
     library(httr)
     library(jsonlite)
     library(dplyr) # uso para tratar o dataframe
