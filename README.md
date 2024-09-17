@@ -10,7 +10,7 @@
 
 - **Gerenciamento de Culturas**: Suporte para múltiplas culturas agrícolas, como soja, café, milho, feijão e cana-de-açúcar.
 - **Cálculo de Área de Plantio**: Suporte para diferentes formas geométricas (retângulo, triângulo, trapézio) para calcular a área de plantio.
-- **Manejo de Insumos**: Cálculo da quantidade de insumos necessários com base na extensão das ruas e no tipo de insumo.
+- **Manejo de Insumos**: Cálculo da quantidade de insumos necessários com base na extensão da área de plantio e no tipo de insumo.
 - **Interface Interativa**: Menus para entrada, atualização, e remoção de dados, além de exibição de informações.
 
 ## Como Usar
