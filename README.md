@@ -13,6 +13,10 @@
 - **Manejo de Insumos**: Cálculo da quantidade de insumos necessários com base na extensão da área de plantio e no tipo de insumo.
 - **Interface Interativa**: Menus para entrada, atualização, e remoção de dados, além de exibição de informações.
 
+## Demonstração:
+
+[![YouTube Video Preview](https://img.youtube.com/vi/2zVuWwmrZp4/maxresdefault.jpg)](https://www.youtube.com/watch?v=2zVuWwmrZp4)
+
 ## Como Usar
 
 1. **Clone o Repositório**
